@@ -7,8 +7,6 @@ Elle illustre une interaction Web3 simple dans un environnement Flutter.
 
 ## Aperçu de l’application
 
-| Début | Saisie | Mise à jour |
-|-------|--------|--------------|
 | ![](interface1.jpg) | ![](interface2.jpg) | ![](interface3.jpg) |
 | Nom initial | Entrée utilisateur | Nom mis à jour dans la blockchain |
 
